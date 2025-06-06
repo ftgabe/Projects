@@ -1,12 +1,7 @@
 usuarios_filmes = {}
 
 while True:
-    print("\nBem‑vindo à sua Letterboxd! O que deseja fazer?")
-    print("1. Adicionar filme")
-    print("2. Remover filme")
-    print("3. Ver filmes de um usuário")
-    print("4. Ver todos os usuários")
-    print("0. Sair")
+    print("\nBem‑vindo à sua Letterboxd! O que deseja fazer? \n1. Adicionar filme\n 2. Remover filme\n 3. Ver filmes de um usuário\n 4. Ver todos os usuários \n 0. Sair")
 
     menu = input("Escolha: ").strip()
 
